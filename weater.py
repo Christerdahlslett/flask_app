@@ -17,3 +17,10 @@ def get_location(adress):
 	return "Your location is: {} and the weather is {} and the temperature is {}".format(adress, summary, temperature)
 
 
+
+# Uploading this to github, like a timemachine for code
+# in terminal: git init
+# git add -A
+# git commit -m "save message"
+# git push
+# username and password
